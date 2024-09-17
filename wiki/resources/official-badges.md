@@ -41,7 +41,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
       <td>(Unknown)</td>
    </tr>
    <tr>
-      <td>HypeSquad Events</td>
+      <td>your mama event</td>
       <td><img src="/img/hypesquadevents.svg"></img></td>
       <td>❌</td>
       <td>User had to attend/represent discord on events (Closed and wont ever return)</td>
